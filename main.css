@@ -1,0 +1,12 @@
+footer {
+    background-color:#0081b9;
+    color: white;
+}
+.main-details {
+    display: flex;
+    justify-content: right;
+    color: red;
+}
+.main-details img {
+    justify-content: left;
+}
